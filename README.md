@@ -24,9 +24,9 @@ On completion of this course students will:
 
 ## Lecture Materials
 
-### Module 1: Introduction to Machine Learning, Part I
+### Week 1
 
-#### [Lecture 1: The Machine Learning Landscape](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWo8HoVvDINJoDmQZzRbdeMBrUru9WCO6-6ZMJarjQb9Yg?e=6mjSEU)
+#### The Machine Learning Landscape ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EWo8HoVvDINJoDmQZzRbdeMBrUru9WCO6-6ZMJarjQb9Yg?e=6mjSEU))
 
 The initial lecture provides a high-level overview of the machine learning (ML) landscape and addresses the following questions.  
  
@@ -35,10 +35,12 @@ The initial lecture provides a high-level overview of the machine learning (ML) 
 * What are the several types of ML systems? 
 * What are some of the main challenges of applying ML in practice? 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
+**Required reading:**
+
+Required readings are expected to be completed *before* arriving in class.
  
 * Chapter 1 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 1 of ML with PyTorch and Sklearn
+* Chapter 1 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 #### [Lecture 2: End-to-End Machine Learning Project](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EaAqGRo1FpJLnx8mxyhpY3IBVnnCIZP-V10MuIvP9vr1-A?e=lM6SjS) 
  
