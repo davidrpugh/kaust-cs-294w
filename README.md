@@ -1,6 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/introduction-to-machine-learning/HEAD)
-
-# Introduction to Machine Learning
+# CS 294W: Applied ML for Scientists and Engineers
 
 While most AI research focuses on applying deep learning to unstructured data such as text and images, many real-world AI applications involve applying machine learning to structured, tabular data. This course's objective is to provide students with practical, hands-on experience with state-of-the-art machine learning tools widely used in industry to solve science and engineering problems based on structured, tabular data.  
 
@@ -24,7 +22,7 @@ On completion of this course students will:
 * Train, validate, and test machine learning pipelines using non-linear models with [Scikit Learn](https://scikit-learn.org/stable/index.html). 
 * Analyze and ‘troubleshoot’ failure modes in their own work. 
 
-## Lessons
+## Lecture Materials
 
 ### Module 1: Introduction to Machine Learning, Part I
 
