@@ -1,4 +1,4 @@
-# CS 294W: Applied ML for Scientists and Engineers
+# Applied ML for Scientists and Engineers
 
 While most AI research focuses on applying deep learning to unstructured data such as text and images, many real-world AI applications involve applying machine learning to structured, tabular data. This course's objective is to provide students with practical, hands-on experience with state-of-the-art machine learning tools widely used in industry to solve science and engineering problems based on structured, tabular data.  
 
