@@ -42,7 +42,9 @@ Required readings are expected to be completed *before* arriving in class.
 * Chapter 1 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 1 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
-#### [Lecture 2: End-to-End Machine Learning Project](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EaAqGRo1FpJLnx8mxyhpY3IBVnnCIZP-V10MuIvP9vr1-A?e=lM6SjS) 
+### Week 2
+
+#### End-to-End Machine Learning Project ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EaAqGRo1FpJLnx8mxyhpY3IBVnnCIZP-V10MuIvP9vr1-A?e=lM6SjS)) 
  
 In this lecture, we will define and discuss the steps for any applied ML project by working through an end-to-end ML project using a real-world dataset as a group.  
  
@@ -56,8 +58,8 @@ In this lecture, we will define and discuss the steps for any applied ML project
  
 The goal is to provide students with a roadmap or checklist that they can apply to most any ML project. Subsequent lectures will focus on various steps defined above.  
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 2 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Appendix A of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
@@ -69,7 +71,9 @@ The material covered in this lecture is drawn from the following chapters of the
 | Training Models | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2d.ipynb) |
 | Fine-tuning Models | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2e.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-2e.ipynb) |
 
-#### [Lecture 3: Classification](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/Ef0qvvwoIQNCgt0KzUbpJDUB5j27rXuuMwEvXpKKBL89zQ?e=DNuiOX)
+### Week 3
+
+#### Classification ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/Ef0qvvwoIQNCgt0KzUbpJDUB5j27rXuuMwEvXpKKBL89zQ?e=DNuiOX))
  
 In this lecture we will cover the key ideas of one of the major learning tasks performed by supervised ML systems: classification.  
  
@@ -77,10 +81,10 @@ In this lecture we will cover the key ideas of one of the major learning tasks p
 * Selecting an appropriate performance metric is a critical early step in developing a classification system.  
 * Discuss the importance of calibrating predicted class probabilities. 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
-  
-* Chapter 3 of Hands-on ML with Sklearn, Keras, and TF 
-* Chapter 2 of ML with PyTorch and Sklearn 
+**Required reading:**
+
+* Chapter 3 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* Chapter 2 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
@@ -92,7 +96,9 @@ The material covered in this lecture is drawn from the following chapters of the
 | Calibration | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3f.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3f.ipynb) |
 | End-to-end Classification | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3g.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-3g.ipynb) |
 
-#### [Lecture 4: Training Models, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVGb6b2kAABAuSkrAJd5Ps0BPlT3KlrCVOilkMN0K_stKg?e=71LcoN) 
+### Week 4
+
+#### Training Models, part I ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVGb6b2kAABAuSkrAJd5Ps0BPlT3KlrCVOilkMN0K_stKg?e=71LcoN)) 
  
 This lecture provides an in-depth discussion of the process of training ML models using stochastic gradient descent. The process will be illustrated using various linear regression models. 
  
@@ -100,10 +106,10 @@ This lecture provides an in-depth discussion of the process of training ML model
 * Polynomial regression 
 * Regularized linear regression (Ridge, LASSO, and ElasticNet). 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 2 of ML with PyTorch and Sklearn 
+* Chapter 2 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
@@ -113,14 +119,14 @@ The material covered in this lecture is drawn from the following chapters of the
 | Polynomial Regression |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1d.ipynb) |
 | Regularized Linear Regression |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1e.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-1e.ipynb) |
 
-#### [Lecture 5: Training Models, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVGb6b2kAABAuSkrAJd5Ps0BPlT3KlrCVOilkMN0K_stKg?e=71LcoN) 
+#### Trainging Models, part II ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EVGb6b2kAABAuSkrAJd5Ps0BPlT3KlrCVOilkMN0K_stKg?e=71LcoN)) 
  
 Review the key ideas presented in the previous lecture but this time using logistic and softmax regression (with and without regularization) to illustrate the training process.
 
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 4 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 2 of ML with PyTorch and Sklearn 
+* Chapter 2 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
@@ -129,41 +135,45 @@ The material covered in this lecture is drawn from the following chapters of the
 | Logistic Regression with Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2c.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2c.ipynb) |
 | Softmax Regression with Scikit-Learn | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2d.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-4-part-2d.ipynb) |
 
-### Module 2: Introduction to Machine Learning, Part II
+### Week 5
 
-#### [Lecture 1: Support Vector Machines (SVMs)](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=OVJ6pP) 
+#### Support Vector Machines ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EYVl3sggch1HqEKHZO8O9t4BpXwFB3NCMCM0tLue6H0T8Q?e=OVJ6pP)) 
  
 In this lecture we will cover both linear and non-linear support vector machines (SVMs) and see how to apply these algorithms to solve both classification and regression tasks.  
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 5 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 3 of ML with PyTorch and Sklearn
+* Chapter 3 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | SVMs (Classification) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-5a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-5a.ipynb)
 
-#### [Lecture 2: Decision Trees](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ERMDJZ6MYP9DrxSm2EIbjA8BTGg9Z3-LG5KB4JMyVUFDNQ?e=9RrsdZ) 
+## Week 6
+
+#### Decision Trees ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/ERMDJZ6MYP9DrxSm2EIbjA8BTGg9Z3-LG5KB4JMyVUFDNQ?e=9RrsdZ)) 
  
 Tree-based models such as random forests and gradient-boosted trees are state-of-the-art ML methods for tabular data. But before we can cover these state-of-the-art methods, we need to discuss decision trees in detail. This lecture will focus on the key ideas behind decision tree implementation and how to tune decision trees to avoid overfitting. 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 6 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 3 of ML with PyTorch and Sklearn 
+* Chapter 3 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/) 
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Decision Trees (Classification) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7a.ipynb) |
 | Decision Trees (Regression) | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7b.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-7b.ipynb) |
 
-#### [Lecture 3: Ensemble Methods, part I](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfOwBOSsVVFBl8GkX23wsHwB49JB0jCao1IZbIIiBT_6cw?e=j1Jyzo) 
+### Week 7
+
+#### Ensemble Methods, part I ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EfOwBOSsVVFBl8GkX23wsHwB49JB0jCao1IZbIIiBT_6cw?e=j1Jyzo)) 
  
 Ensemble, tree-based models such as random forests and gradient-boosted trees are state-of-the-art ML methods for tabular data. In this lecture we will cover these approaches in detail. We will discuss the key ideas behind ensemble methods such as voting, bagging, and pasting and how to implement these approaches in practice to solve classification and regression tasks via random forests. 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 7 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
 * Chapter 3 and 7 of ML with PyTorch and Sklearn 
 
@@ -171,76 +181,84 @@ The material covered in this lecture is drawn from the following chapters of the
 |--------------|:------------------------:|:------------------:|
 | Ensemble Methods, part I |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-1a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-1a.ipynb) |
 
-#### [Lecture 4: Ensemble Methods, part II](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EZgXMV7npzlKrfWH1A8v2loBMPlAkYLOFpD6iOBw27A81w?e=Ni0dY0) 
+### Week 8
+
+#### Ensemble Methods, part II ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EZgXMV7npzlKrfWH1A8v2loBMPlAkYLOFpD6iOBw27A81w?e=Ni0dY0))
  
 This lecture continues covering tree-based ensemble techniques with an in-depth discussion of gradient boosted trees. Gradient boosted trees are the most widely used ML algorithms in industry and continue to deliver state-of-the-art performance on tabular data problems and time-series forecasting problems. Two popular implementations of gradient boosted trees will be discussed: XGBoost and CatBoost. 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 7 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 3 and 7 of ML with PyTorch and Sklearn 
+* Chapter 3 and [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Boosting Methods (Scikit-Learn) |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-2a.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-2a.ipynb) |
 | Boosting Methods (CatBoost, LightGBM, XGBoost) |  [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-2b.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/lecture-8-part-2b.ipynb) |
 
-### Module 3: Introduction to Machine Learning, Part III
+### Week 9
 
-#### [Lecture 1: Dimensionality Reduction](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EbBg__P2wu5Gp4BZ3iMcv-0BlVAa3j2SWz7rJjRj5udBZQ?e=IDyQTX) 
+#### Dimensionality Reduction ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EbBg__P2wu5Gp4BZ3iMcv-0BlVAa3j2SWz7rJjRj5udBZQ?e=IDyQTX)) 
  
 Many ML systems suffer from the curse of dimensionality: the training time of many ML systems increases rapidly as the number of features in the dataset increases. This lecture covers the key ideas of dimensionality reduction and various algorithms for performing dimensionality reduction such as Principal Components Analysis (PCA), Locally Linear Embedding (LLE), et al. Tradeoffs between the various methods will be discussed. 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 8 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 5 of ML with PyTorch and Sklearn 
+* Chapter 5 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Dimensionality Reduction | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/module-3-lecture-1.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/module-3-lecture-1.ipynb)
 
-#### [Lecture 2: Unsupervised Learning Techniques](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EV1cUHcyAwtHqWsr4IdidxUBRclSLycFCPQusvkHJ48XdA?e=X034dA) 
+### Week 10
+
+#### Unsupervised Learning Techniques ([Slides](https://kaust-my.sharepoint.com/:p:/g/personal/pughdr_kaust_edu_sa/EV1cUHcyAwtHqWsr4IdidxUBRclSLycFCPQusvkHJ48XdA?e=X034dA)) 
  
 This lecture will cover the key ideas behind unsupervised learning techniques and will include an in-depth discussion of the K-means algorithm. Other approaches to unsupervised learning will be discussed such as DBSCAN, and Gaussian Mixture Models (GMMs).  
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 9 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 10 of ML with PyTorch and Sklearn
+* Chapter 10 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
 | **Tutorial** | **Open in Google Colab** | **Open in Kaggle** |
 |--------------|:------------------------:|:------------------:|
 | Unsupervised Learning | [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/module-3-lecture-2.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/davidrpugh/machine-learning-for-tabular-data/blob/main/notebooks/module-3-lecture-2.ipynb)
 
-### Module 4: Introduction to Machine Learning, Part IV
+### Week 11
 
-#### Lecture 1: Introduction to Artificial Neural Networks 
+#### Introduction to Artificial Neural Networks (Slides)
  
 While neural networks are not (yet?) state-of-the-art approach for most tabular data problems, an understanding of the key ideas of basic neural networks such as the multi-layer perceptron (MLP) is important. We will learn how to implement linear and logistic regression using MLPs as well as how to apply MLPs to tabular data problems. 
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 10 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 11 of ML with PyTorch and Sklearn 
+* Chapter 11 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
-#### Lecture 2: Fundamentals for DNN training and validation 
+### Week 12
+
+#### Fundamentals for DNN training and validation (Slides)
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 11 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 12 of ML with PyTorch and Sklearn 
+* Chapter 12 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
-#### Lecture 3: Optimizers, learning rates and batch sizes 
+### Week 13
+
+#### Optimizers, learning rates and batch sizes (Slides)
  
-The material covered in this lecture is drawn from the following chapters of the reference texts. 
- 
+**Required reading:**
+
 * Chapter 11 of [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) 
-* Chapter 12 of ML with PyTorch and Sklearn 
+* Chapter 12 of [ML with PyTorch and Sklearn](https://www.oreilly.com/library/view/machine-learning-with/9781801819312/)
 
-### Module 5:
+### Week 14
 
-#### Lecture 1: Deploying machine learning pipelines, part 1 
+#### Deploying machine learning pipelines, part I (Slides) 
  
 A trained ML system that is never deployed is one of little practical value. Deployment of ML systems presents some unique challenges that are rarely discussed in university courses. We will spend the last lecture of the course learning how to deploy ML algorithms culminating with students learning to embed and deploy their own ML systems as Gradio applications on HuggingFace Spaces. 
 
